@@ -14,7 +14,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ```
 
-	git clone https://github.com/bluecoatyus/kodluyoruzilkrepo.git
+git clone https://github.com/bluecoatyus/kodluyoruzilkrepo.git
 
 ```
 
@@ -30,8 +30,8 @@ Linux için:
 
 ```
 
-	cd kodluyoruzilkrepo
-	code .
+cd kodluyoruzilkrepo
+code .
 
 ```
 
