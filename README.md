@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 
-![github](bluecoatyus/img.png)
+![github](images/img.png)
 
 
 
